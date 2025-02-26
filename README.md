@@ -21,21 +21,6 @@ I'm a **Python Developer** and **Generative AI Enthusiast** with a passion for s
 - **Data Visualization**: Tableau (learning)
 - **Others**: Git, REST APIs, OpenAI API
 
-🚀 Projects & Contributions
-1. **AI-Powered Text Generator** – A generative AI model that provides creative text based on user input.
-   - **Technologies**: Python, Transformers, OpenAI API, Flask
-   - **GitHub Repo**: [AI Text Generator](#)
-
-2. **RAG System Implementation** – Implemented a retriever component using MongoDB as a vector store for fast and efficient information retrieval.
-   - **Technologies**: MongoDB, HNSW, ANN, Python
-   - **GitHub Repo**: [RAG System](#)
-
-3. **Chatbot Development** – Currently working on a chatbot with an intelligent retriever model for more engaging and human-like interactions.
-   - **Technologies**: Python, Transformers, NLP
-
-4. **DevOps Pipelines with Azure** – Setup and automated CI/CD pipelines for multiple applications using Azure DevOps.
-   - **Technologies**: Azure, Docker, Kubernetes
-   - **GitHub Repo**: [DevOps Pipelines](#)
 
 📈 Current Learning Goals
 - Master **Tableau** for data visualization and insights.
