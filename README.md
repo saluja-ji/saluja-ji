@@ -28,6 +28,6 @@ I'm a **Python Developer** and **Generative AI Enthusiast** with a passion for s
 - Enhance my knowledge in **Chatbot Development** and **Natural Language Processing (NLP)**.
 
 💬 Let's Connect!
-- LinkedIn: linkedin.com/in/pushpit-saluja
+- LinkedIn: https://linkedin.com/in/pushpit-saluja
 - GitHub: https://github.com/saluja-ji
 
