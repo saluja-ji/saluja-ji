@@ -1,33 +1,79 @@
-👋 Hi, I'm Pushpit Saluja!
 
-I'm a **Python Developer** and **Generative AI Enthusiast** with a passion for solving real-world problems through cutting-edge technologies. With experience across a diverse range of projects, I specialize in **Generative AI applications**, **MongoDB**, and **Microsoft Azure DevOps**. Currently expanding my skillset into **Chatbot Development**, **Salesforce**, and **Tableau**.
+# Hi, I’m Pushpit Saluja 👋
 
-🌟 About Me
-- 👨‍💻 **Python Developer** with hands-on experience in building scalable solutions.
-- 🧠 **Generative AI** enthusiast, working on **AI-driven applications** and keen to explore **large language models (LLMs)**.
-- 💻 Strong experience with **MongoDB** as a vector store and **Microsoft Azure** for **DevOps**.
-- 🔍 Currently focusing on **Retrieval-Augmented Generation (RAG)** systems using **dense vectors, HNSW, ANN**, and **RRF indexing algorithms**.
-- 🎓 Enrolled in the *Complete Generative AI* course on Udemy.
-- 💡 Passionate about learning and implementing new technologies in real-world projects.
-- ✍️ I enjoy writing technical content on LinkedIn and GitHub to share my knowledge with the community.
+I’m a computer science student focused on **cloud infrastructure, distributed systems, and machine learning systems** — with a strong interest in how real-world production systems are designed, operated, and evolved over time.
 
-🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Cloud Platforms**: Microsoft Azure (DevOps)
-- **AI & ML**: Generative AI (LLMs, Transformers, GPT-based models)
-- **DevOps**: Azure Pipelines, CI/CD, Docker, Kubernetes
-- **Web Development**: Flask, FastAPI, Node.js
-- **Data Visualization**: Tableau (learning)
-- **Others**: Git, REST APIs, OpenAI API
+I care less about memorising tools and more about **understanding systems deeply**.
 
+---
 
-📈 Current Learning Goals
-- Master **Tableau** for data visualization and insights.
-- Deep dive into **Salesforce** for CRM-based applications.
-- Enhance my knowledge in **Chatbot Development** and **Natural Language Processing (NLP)**.
+## 🧠 What I focus on
 
-💬 Let's Connect!
-- LinkedIn: https://linkedin.com/in/pushpit-saluja
-- GitHub: https://github.com/saluja-ji
+- **Cloud & Infrastructure**
+  - AWS fundamentals, load balancing, networking, storage
+  - Infrastructure design trade-offs: performance, availability, cost
+  - Exploring cloud-native and container-based architectures
 
+- **DevOps Foundations**
+  - Linux internals and system behavior
+  - Docker and containerisation workflows
+  - Automation, observability, and production thinking
+
+- **Machine Learning Systems**
+  - ML beyond notebooks: pipelines, deployment, scalability
+  - Understanding how ML models behave in real systems
+  - Interest in MLOps and ML-infra patterns
+
+---
+
+## 🔧 Tools & Technologies I work with
+
+- **Languages:** Python, Bash  
+- **Platforms:** AWS, Linux  
+- **Containers:** Docker  
+- **Databases:** SQL, NoSQL fundamentals  
+- **Other:** Git, networking basics, system design concepts  
+
+*(I prefer depth over tool-count inflation.)*
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I write long-form technical articles where I break down complex concepts like:
+
+- Cloud load balancing (ALB vs NLB)
+- SSL/TLS termination models
+- Databases, storage, and networking fundamentals
+- Security and system design trade-offs
+- AI & ML systems from a systems perspective
+
+📖 **Read my work:**  
+👉 https://cloudodyssey.substack.com/
+
+My writing focuses on **mental models, first principles, and real-world constraints** — not copy-paste tutorials.
+
+---
+
+## 🌍 Open Source & Community
+
+- Contributor to **MediaWiki**
+- Member of **WikiClub Tech UU**
+- Use open source as a learning ground for:
+  - reading real production code
+  - understanding review culture
+  - seeing how large systems evolve safely
+
+---
+
+## 📫 Let’s connect
+
+- **GitHub:** https://github.com/saluja-ji  
+- **LinkedIn:** https://www.linkedin.com/in/pushpit-saluja/  
+- **Substack:** https://cloudodyssey.substack.com/
+
+If you enjoy conversations about systems, infrastructure, or how things *actually* work under the hood — I’m always open to a discussion.
+
+---
+
+> *“Understanding systems deeply matters more than memorising tools.”*
