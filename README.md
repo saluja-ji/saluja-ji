@@ -1,172 +1,204 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pushpit%20Saluja&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=golang%20%7C%20cloud%20%7C%20devops%20%7C%20ai%20systems&descSize=18&descAlignY=60&descColor=a0c4ff&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00416A,100:000000&height=250&section=header&text=PUSHPIT%20SALUJA&fontSize=60&fontColor=00d4ff&fontAlignY=45&desc=Gopher%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Systems%20Thinker&descSize=16&descAlignY=65&descColor=ffffff&stroke=00d4ff&strokeWidth=2&animation=fadeIn"/>
 </div>
 
 <div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=I+write+Go.+I+ship+systems.;I+don't+memorise+tools.+I+understand+them.;Cloud+%7C+DevOps+%7C+AI+%E2%80%94+all+one+discipline.;Currently+going+deep+on+production+Go.;Read+my+writing+%E2%86%92+cloudodyssey.substack.com" alt="Typing SVG" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)&nbsp;
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)&nbsp;
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)&nbsp;
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+</div>
+
+---
+
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=saluja-ji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=12"/>
+
+### `$ cat about.go`
 
 ```go
 package main
 
-import "fmt"
-
-type Engineer struct {
-    Name     string
-    Focuses  []string
-    Motto    string
+type Pushpit struct {
+    Role    string
+    Stack   []string
+    Mindset string
+    Writing string
 }
 
-func main() {
-    me := Engineer{
-        Name:    "Pushpit Saluja",
-        Focuses: []string{"Go", "Cloud/DevOps", "AI Systems"},
-        Motto:   "understand the system, not just the syntax",
-    }
-    fmt.Println(me)
+var me = Pushpit{
+    Role:  "CS Student → Systems Engineer",
+    Stack: []string{
+        "Go (primary)",
+        "Cloud / AWS",
+        "DevOps & Containers",
+        "AI Systems",
+    },
+    Mindset: "first principles > tutorials",
+    Writing: "cloudodyssey.substack.com",
 }
 ```
 
-</div>
+<br clear="right"/>
+
+---
+
+## `━━━ CORE STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 <div align="center">
 
-[![Go](https://img.shields.io/badge/Go-Primary%20Language-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+<table>
+<tr>
 
-[![Substack](https://img.shields.io/badge/Cloud%20Odyssey-Writing-FF6719?style=flat-square&logo=substack)](https://cloudodyssey.substack.com/)
-[![LinkedIn](https://img.shields.io/badge/Pushpit%20Saluja-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pushpit-saluja/)
-[![GitHub](https://img.shields.io/badge/saluja--ji-Follow-181717?style=flat-square&logo=github)](https://github.com/saluja-ji)
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/─────────────────-000?style=flat-square"/>
+<br>
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<br><br>
+
+**`Golang`**
+
+```
+goroutines & channels
+interfaces & composition
+CLI tools & REST APIs
+idiomatic, concurrent code
+stdlib-first philosophy
+```
+
+</td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/─────────────────-000?style=flat-square"/>
+<br>
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<br><br>
+
+**`Cloud / DevOps`**
+
+```
+AWS — EC2, S3, VPC, IAM
+load balancing internals
+Docker & container flows
+Linux system behaviour
+observability & automation
+```
+
+</td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/─────────────────-000?style=flat-square"/>
+<br>
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<br><br>
+
+**`AI Systems`**
+
+```
+ML beyond the notebook
+pipelines & deployment
+MLOps & infra patterns
+LLM tooling & agents
+production AI thinking
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
+## `━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  > I build with Go.  I ship with Docker.             ║
-║  > I think in systems.  I break things intentionally.║
-║  > Then I write about why they broke.                ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://streak-stats.demolab.com?user=saluja-ji&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff9900&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=12" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saluja-ji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&border_radius=12&langs_count=6"/>
 
 </div>
 
 ---
 
-## ⚡ `./stack --primary`
+## `━━━ WRITING / CLOUDODYSSEY ━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+> **[☁️ cloudodyssey.substack.com](https://cloudodyssey.substack.com/)** — not tutorials. not cheatsheets.
+> long-form systems thinking for engineers who want to *actually* understand.
 
 <div align="center">
 
-| 🐹 **Golang** | ☁️ **Cloud & DevOps** | 🤖 **AI Systems** |
-|:---:|:---:|:---:|
-| Writing idiomatic, concurrent Go | AWS core — EC2, S3, VPC, IAM | ML beyond the notebook |
-| Goroutines, channels, interfaces | Load balancing — ALB, NLB, NGINX | Pipelines, deployment, scalability |
-| Building CLIs, APIs, and services | Docker · containers · orchestration | MLOps & ML-infra patterns |
-| Standard library obsession | Linux internals & system behavior | AI systems from a production lens |
-| Performance-conscious code | IaC thinking, automation, CI/CD | LLM tooling & agentic patterns |
+| 📄 Article | 🏷️ Domain |
+|---|---|
+| Cloud Load Balancing — ALB vs NLB deep dive | `networking · aws` |
+| SSL/TLS termination models & where they break | `security · infra` |
+| Databases & storage: the trade-offs that matter | `data · systems` |
+| Security & system design: uncomfortable decisions | `security · design` |
+| AI & ML from a production systems lens | `ai · mlops` |
+| *(Go concurrency patterns in infra — drafting...)* | `go · devops` |
 
 </div>
 
 ---
 
-## 🛠️ `go build ./tech-stack/...`
-
-```go
-var stack = map[string][]string{
-    "primary_language": {"Go (Golang)"},
-    "scripting":        {"Python", "Bash"},
-    "cloud":            {"AWS — EC2, S3, VPC, IAM, CloudWatch"},
-    "containers":       {"Docker", "container-native thinking"},
-    "os":               {"Linux — not just a user, a student of it"},
-    "databases":        {"SQL", "NoSQL", "storage trade-offs"},
-    "networking":       {"TCP/IP", "DNS", "load balancing internals"},
-    "workflow":         {"Git", "CI/CD concepts", "observability"},
-}
-
-// NOTE: depth >> breadth. always.
-```
-
----
-
-## 📡 `tail -f /var/log/cloud-odyssey.log`
-
-> I write long-form technical deep-dives at **[cloudodyssey.substack.com ↗](https://cloudodyssey.substack.com/)**
-> Not tutorials. Not cheatsheets. **Mental models.**
-
-```bash
-[✓] PUBLISHED  — Cloud Load Balancing: ALB vs NLB internals
-[✓] PUBLISHED  — SSL/TLS termination: where, why & what breaks
-[✓] PUBLISHED  — Databases & storage: trade-offs that actually matter
-[✓] PUBLISHED  — Security & system design: the uncomfortable decisions
-[✓] PUBLISHED  — AI & ML systems: a production systems perspective
-[~] DRAFTING   — Go concurrency patterns in real infra pipelines
-[~] DRAFTING   — ...
-```
-
-*Writing that asks **why** before it ever says **how**.*
-
----
-
-## 🌐 `git log --open-source --oneline`
-
-```
-7f3a2c1  fix: contribute to MediaWiki — reading real prod code
-4d8b9e0  chore: learn review culture from the inside
-2c1f7a3  feat: join WikiClub Tech UU — build in community
-a9e4d12  docs: understand how large systems evolve safely
-```
-
-> Open source isn't a resume line — it's a **masterclass** in production engineering.
-
----
-
-## 🤖 `./ai_systems --perspective`
-
-```
-Not just: "use the model"
-But:      "how does it serve in production?"
-          "what breaks at scale?"
-          "where does the pipeline fail?"
-          "how do you monitor an LLM in the wild?"
-
-Interest areas →
-  ├── MLOps & ML infrastructure
-  ├── LLM tooling and agentic systems
-  ├── AI from a systems engineering lens
-  └── The unglamorous parts nobody writes about
-```
-
----
-
-## 📫 `ping pushpit --open-to-talk`
+## `━━━ OPEN SOURCE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 <div align="center">
 
-*If you think about Go, cloud infra, DevOps, or AI systems —*
-*if you care about the **why** more than the **what** —*
+```
+┌─────────────────────────────────────────────────────┐
+│  $ git log --contributor --org=mediawiki            │
+│                                                     │
+│  ● MediaWiki contributor                            │
+│    reading real production code at scale            │
+│                                                     │
+│  ● WikiClub Tech UU member                          │
+│    building & learning in community                 │
+│                                                     │
+│  philosophy: OSS is a masterclass in how            │
+│  large systems are built, reviewed & evolved safely │
+└─────────────────────────────────────────────────────┘
+```
 
-**let's connect.**
+<img src="https://github-profile-trophy.vercel.app/?username=saluja-ji&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+## `━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<div align="center">
+
+*Gophers, cloud engineers, devops folks, AI systems builders —*
+*if you care about how things actually work under the hood:*
 
 <br>
 
-[![Read Cloud Odyssey](https://img.shields.io/badge/📖%20Read%20Cloud%20Odyssey-Substack-FF6719?style=for-the-badge)](https://cloudodyssey.substack.com/)
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝%20Connect-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/pushpit-saluja/)
-[![Browse GitHub](https://img.shields.io/badge/💻%20Browse-GitHub-181717?style=for-the-badge)](https://github.com/saluja-ji)
+[![Substack](https://img.shields.io/badge/Read%20Cloud%20Odyssey-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://cloudodyssey.substack.com/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpit-saluja/)&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saluja-ji)
 
-<br>
-
----
+<br><br>
 
 ```go
-// the only variable that matters
-const Motto = "understand systems deeply — tools are just the syntax"
+const Philosophy = "tools are just syntax — understand the system"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00416A,100:000000&height=140&section=footer&animation=fadeIn"/>
 
 </div>
