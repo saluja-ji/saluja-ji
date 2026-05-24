@@ -1,27 +1,5 @@
 <div align="center">
 
-```
-██████╗ ██╗   ██╗███████╗██╗  ██╗██████╗ ██╗████████╗
-██╔══██╗██║   ██║██╔════╝██║  ██║██╔══██╗██║╚══██╔══╝
-██████╔╝██║   ██║███████╗███████║██████╔╝██║   ██║
-██╔═══╝ ██║   ██║╚════██║██╔══██║██╔═══╝ ██║   ██║
-██║     ╚██████╔╝███████║██║  ██║██║     ██║   ██║
-╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝
-```
-
-### `$ whoami` → Pushpit Saluja
-
-*CS student. Systems thinker. Depth over breadth.*
-
-[![Substack](https://img.shields.io/badge/Substack-Cloud%20Odyssey-orange?style=flat-square&logo=substack)](https://cloudodyssey.substack.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpit%20Saluja-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pushpit-saluja/)
-[![GitHub](https://img.shields.io/badge/GitHub-saluja--ji-black?style=flat-square&logo=github)](https://github.com/saluja-ji)
-[![MediaWiki](https://img.shields.io/badge/Open%20Source-MediaWiki%20Contributor-green?style=flat-square&logo=wikipedia)](https://www.mediawiki.org)
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pushpit%20Saluja&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=golang%20%7C%20cloud%20%7C%20devops%20%7C%20ai%20systems&descSize=18&descAlignY=60&descColor=a0c4ff&animation=fadeIn" />
 
 </div>
