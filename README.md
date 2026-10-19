@@ -1,61 +1,48 @@
 <h1 align="center">Pushpit Saluja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=DevOps+%26+Cloud+Engineer;I+automate+infrastructure+with+Terraform;I+ship+it+with+CI%2FCD;I+make+it+observable+with+OpenTelemetry" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/pushpit-saluja">LinkedIn</a> ·
-  <a href="mailto:salujapushpit3@gmail.com">Email</a> ·
-  <a href="https://cloudodyssey.substack.com">Blog</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=DevOps+%26+Cloud+Engineer;Automate+everything;Observe+everything;Blame+nothing" alt="Typing intro" />
 </p>
 
 ```console
-pushpit@prayagraj:~$ whoami
-devops-engineer · AWS · Terraform · Go
+$ whoami
+pushpit · devops & cloud engineer · prayagraj, india
 
-pushpit@prayagraj:~$ cat focus.txt
-infrastructure as code, CI/CD pipelines, observability, least-privilege security
-
-pushpit@prayagraj:~$ cat philosophy.txt
+$ cat motto.txt
 if it isn't automated, it's a bug waiting to happen
 if it isn't observable, it's already broken
 ```
 
-## What I build
+## System status
 
-```mermaid
-flowchart LR
-  S[EventBridge<br/>daily schedule] --> L[Lambda · Go]
-  L --> B[(S3 data lake)]
-  B --> Q[Athena]
-  L -->|risky permissions<br/>+ daily diff| N[SNS alert]
-  L -. OTLP .-> O[OpenTelemetry<br/>X-Ray · CloudWatch]
-  G[GitHub Actions<br/>OIDC · Terraform] -->|plan · apply| L
+| Component | Status |
+|---|---|
+| Curiosity | 🟢 Operational |
+| Coffee | 🟡 Degraded performance |
+| Terraform plan anxiety | 🟠 Under investigation |
+| Open to opportunities | 🟢 Accepting requests |
+
+## Changelog
+
+```diff
++ v2023.0  Started BCA (AI specialization), United University
++ v2025.0  Learned to love the terminal, Linux, and Go
++ v2026.8  DevOps / Cloud internship: AWS, DNS, SSL/TLS, IAM, backups
++ v2026.10 Internship completed, now observing everything with OpenTelemetry
 ```
 
-<sub>Architecture of <a href="https://github.com/saluja-ji/iam_inventory_pipeline">iam_inventory_pipeline</a>.</sub>
+## Runbook: how to reach me
 
-## Projects
+1. **Opportunity or collaboration?** Email [salujapushpit3@gmail.com](mailto:salujapushpit3@gmail.com)
+2. **Professional contact?** [LinkedIn](https://linkedin.com/in/pushpit-saluja)
+3. **Want to read my thoughts on cloud and systems?** [Cloud Odyssey](https://cloudodyssey.substack.com)
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**iam_inventory_pipeline**](https://github.com/saluja-ji/iam_inventory_pipeline) | Daily AWS IAM snapshots, risk detection, and change alerts. Deployed through Terraform and GitHub Actions with OIDC (no static keys). | `Go` `Terraform` `Lambda` `Athena` `OpenTelemetry` |
-| **OpenTelemetry Collector pipeline** | Traces, metrics, and logs from a Go service over OTLP into a Collector. | `Go` `OpenTelemetry` `Docker` |
-| [**wikigo**](https://github.com/saluja-ji/wikigo) | Published Go SDK for the Wikimedia API with rate limiting, backoff, and retries. [pkg.go.dev](https://pkg.go.dev/github.com/saluja-ji/wikigo) | `Go` `net/http` |
+> Expected response time: fast, but never during a `terraform apply`.
 
-## Toolbox
+## Known issues
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+- Cannot resist reading the docs before running the command.
+- Tends to say "let me add one more dashboard" past midnight.
+- **Workaround:** ship it, then iterate.
 
-## Writing
-
-I write about cloud and systems internals at **[Cloud Odyssey](https://cloudodyssey.substack.com)**.
-
+<p align="center"><sub>Built with Markdown and mild sleep deprivation.</sub></p>
